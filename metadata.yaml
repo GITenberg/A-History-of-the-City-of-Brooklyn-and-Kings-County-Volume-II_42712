@@ -1,0 +1,32 @@
+_repo: A-History-of-the-City-of-Brooklyn-and-Kings-County-Volume-II_42712
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42712-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Ostrander, Stephen M.
+    alias: Ostrander, Stephen
+    gutenberg_agent_id: '41830'
+    url: http://www.gutenberg.org/2009/agents/41830
+  editor:
+    agent_name: Black, Alexander
+    birthdate: 1859
+    deathdate: 1940
+    gutenberg_agent_id: '41831'
+    url: http://www.gutenberg.org/2009/agents/41831
+description: ''
+gutenberg_issued: '2013-05-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42712'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kings County (N.Y.) -- History'
+- !lcc 'F106'
+- !lcsh 'Brooklyn (New York, N.Y.) -- History'
+title: A History of the City of Brooklyn and Kings County, Volume II.
+url: http://www.gutenberg.org/ebooks/42712
